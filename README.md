@@ -2,7 +2,7 @@
 
 My name is **Alex**. I am Principal Software Engineer with the M365 Fleet Innovation team at Microsoft.
 I have over 25 years of software development and consulting experience in architecture, cloud native, AI, desktop and mobile app development, performance optimization, DevOps and agile team leadership.
-Prior to joining Microsoft, I designed solutions for medical devices, large enterprises and consumer applications, developed training solutions for Microsoft Learning on Windows Phone and Windows 8 and delivered workshops for developers and enterprises.
+Prior to joining Microsoft, I designed solutions for medical devices, large enterprise and consumer solutions, developed demos and training solutions for Microsoft Learning and product teams on Azure, Silverlight, WPF, Windows Phone and Windows 8 and delivered workshops for developers and enterprises.
 
 <!--
 **alexgolesh/alexgolesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
